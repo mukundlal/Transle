@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "574018395637",
+    "firebase_url": "https://transle-4bb65.firebaseio.com",
+    "project_id": "transle-4bb65",
+    "storage_bucket": "transle-4bb65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574018395637:android:0bd06b0b73c2b78d",
+        "android_client_info": {
+          "package_name": "com.jackfruit.transle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574018395637-m97kp3vf45icd5c8hdq2j29f62uubr3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1AS6qo_afLOA36uHIY4qW9RpbyNn8cZ8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

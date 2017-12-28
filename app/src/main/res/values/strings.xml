@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Translé</string>
+    <string name="title_activity_main">Main</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main_mod">MainMod</string>
+    <string name="title_activity_ocr_transl">OcrTransl</string>
+    <array name="languages">
+        <item>Select Language</item>
+        <item>Hindi</item>
+        <item>English</item>
+        <item>Tamil</item>
+        <item>Telugu</item>
+        <item>Malayalam</item>
+        <item>Kannada</item>
+    </array>
+    <string name="country_prompt">Choose a Language</string>
+    <string name="password">Password</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email">Email</string>
+    <string name="signup">SignUp</string>
+    <string name="conform_password">Conform Password</string>
+    <string name="nick_name">Nick Name</string>
+
+    <string name="lets_translate">Lets Translate</string>
+    <string name="just_a_image">just a image</string>
+    <string name="transl">Translé</string>
+    <string name="todo">TODO</string>
+</resources>
